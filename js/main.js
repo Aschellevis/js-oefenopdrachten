@@ -1,7 +1,4 @@
 //Opdracht 1
 
-let myName = 'Anouska Schellevis';
-console.log(myName.toUpperCase( )); 
-
-let hisName = 'Jan Jansen';
-console.log(hisName.toLowerCase( ));
+let myName = prompt('Wat is uw naam?', );
+console.log(myName.to);
